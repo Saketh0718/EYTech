@@ -1,0 +1,16 @@
+# Python
+env/
+__pycache__/
+
+# Node.js
+node_modules/
+
+# Databases
+*.sqlite3
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
